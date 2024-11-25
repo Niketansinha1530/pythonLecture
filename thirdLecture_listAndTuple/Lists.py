@@ -54,4 +54,4 @@ ListOfCar.append("Maruti")
 print(ListOfCar)
 
 print(carList[0:])
-print(carList[-1])
+print(carList[-1]) #negative indexing
