@@ -27,7 +27,7 @@
 # name="nIketan"
 # print("hello","ram", sep="%")
 
-# # if i want to print both name in single line
+# if i want to print both name in single line
 # print("Ram",end=" ")
 # print("kajal")  
 
@@ -39,6 +39,6 @@ def printMul(a,b=4):
     return mul
 
 # printMul() #printMul() missing 2 required positional arguments: 'a' and 'b'
-# print(printMul()) #takes default value
+# print(printMul()) #takes default value #printMul() missing 1 required positional argument: 'a'
 # print(printMul(4,5)) #value passes in argument
-# print(printMul(3))
+print(printMul(3))

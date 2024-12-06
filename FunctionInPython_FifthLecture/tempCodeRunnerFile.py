@@ -1,10 +1,9 @@
-def printCricketer(n):
-#     if(n==0):
-#         print("Nothing")
-#         return
-#     else:
-#         print(cricketer[n])
-#         printCricketer(n-1)
+Build-in Functions
+User defined Function
 
-# printCricketer(lenghtOfList)
-    
+name="nIketan"
+print("hello","ram", sep="%")
+
+# if i want to print both name in single line
+print("Ram",end=" ")
+print("kajal") 

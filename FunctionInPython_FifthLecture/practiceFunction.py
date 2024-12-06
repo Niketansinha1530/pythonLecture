@@ -20,13 +20,15 @@
 
 #print factorial 
 
+# n = int(input("Enter which number you a factorial: "))
+
 # def printFactorial(n):
 #     if(n<=1):
 #         return 1
 #     else:
 #         return n*printFactorial(n-1)
 
-# print(printFactorial(9))
+# print(printFactorial(n))
 
 
 # usd=84.13
