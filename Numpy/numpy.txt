@@ -1,0 +1,2 @@
+https://www.w3schools.com/python/numpy/numpy_intro.asp
+https://codebasics.io/courses/math-and-statistics-for-data-science/lecture/1539 

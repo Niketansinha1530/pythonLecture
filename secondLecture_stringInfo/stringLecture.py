@@ -47,6 +47,7 @@
 # print(str[-5:-2]) # app
 # print(str[-5:]) # apple
 # print(str[:-1]) # appl
+# print(str[::-1]) # elppa  Rerverse the string
 
 #  ---------------------------------------------------------  Negative Indexing   -------------------------------------------------- #
 
@@ -69,24 +70,26 @@
 # print(flag)
 
 
-sentence = "every day, every night, in every way, I am getting better and better."
-print(sentence.count("every"))
+# sentence = "every day, every night, in every way, I am getting better and better."
+# print(sentence.count("every"))
 
-print(sentence.capitalize())
+# print(sentence.capitalize())
 
-print(sentence.find("getting"))
-print(len(sentence));
+# print(sentence.find("getting"))
+# print(len(sentence));
 
-print(sentence[43])
-print(sentence)
+# print(sentence[43])
+# print(sentence)
 
-newstr = sentence.capitalize()
-print(newstr)
+# newstr = sentence.capitalize()
+# print(newstr)
 
-newSentence = sentence.replace("every","yesterday")
-print(newSentence)
+# newSentence = sentence.replace("every","yesterday")
+# print(newSentence)
+
+# print(sentence) #Strings are immutable
 
 # ****************************************  Repetition *****************************************
 
-# s ="lala"
-# print(s *3) # lalalalalala 
+s ="lala"
+print(s *3) # lalalalalala 
