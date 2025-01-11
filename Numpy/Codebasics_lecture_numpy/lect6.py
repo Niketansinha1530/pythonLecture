@@ -69,7 +69,7 @@ new_var7 = np.mod(var7,2)
 print("Mode: ",new_var7)
 print("*********************************************************")
 # same operation we can perform with 2 array we can perform all arithmetic operation with 2 arrays
-
+ 
 
 # num1 = np.array([1,2,3,4,5])
 # num2 = np.array([1,2,3,4,5])

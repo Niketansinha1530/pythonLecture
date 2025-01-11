@@ -1,2 +1,1 @@
-print(new_mat2)
-print(new_mat2[0])
+axis=1

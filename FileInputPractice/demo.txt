@@ -1,3 +1,1 @@
-LOG is the file extension for an automatically produced file that contains a record of events from certain software and operating systems.
-While they can contain a number of things, log files are often used to show all events associated with the system or application that created them.
-For example, your backup program might keep log files showing exactly what happened (or didn't happen) during a backup. Windows keeps all kinds of log files for its various services.
+Hello Everyone	 this line add after Hello everyone

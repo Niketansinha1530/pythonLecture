@@ -1,24 +1,4 @@
-# *************************************** Complex *******************************************************************
+number=input("Enter Any Number ");
 
-z=3+4j;
-
-print(z)
-print(type(z))
-print(z.real)
-print(z.imag)
-
-# *************************************** assighnment operator   *******************************************************************
-
-x = 10
-print(x)
-
-x += 34  # x = x + 34
-
-print(x)
-
-
-# ********************************* type casting *****************************************
-num = "64"
-
-bin_num = int(num,8)
-print(bin_num)
+print(type(number))
+print(number)
