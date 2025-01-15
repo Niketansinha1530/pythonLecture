@@ -46,6 +46,7 @@
 colors = "red", "green", "blue"
 
 print(colors)
+print(type(colors))
 
 
 t1 = (1, 2)

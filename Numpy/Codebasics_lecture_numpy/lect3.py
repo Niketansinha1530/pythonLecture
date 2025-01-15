@@ -7,7 +7,7 @@ import numpy as np
 #Rand() Function
 # -> rand() : The function is used to generate a random value between 0 to 1.
 
-randomArray = np.random.rand(2)
+randomArray = np.random.rand(1)
 # randomArray = np.random.rand(2,2) #2D Array with random elements
 print(randomArray)
 print("********************************")
