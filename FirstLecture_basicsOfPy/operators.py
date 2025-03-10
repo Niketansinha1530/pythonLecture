@@ -3,10 +3,10 @@ num2=5;
 num3=44;
 
 # print("Addition : ", num1 + num2);
-# print("Addition : ", num1 - num2);
-# print("Addition : ", num1 * num2);
-# print("Addition : ", num1 / num2);
-# print("Addition : ", num1 % num2);
+# print("Subtraction : ", num1 - num2);
+# print("Multiplication : ", num1 * num2);
+# print("Division : ", num1 / num2);
+# print("Modulus : ", num1 % num2);
 
 # Assignment operator
 p=30;

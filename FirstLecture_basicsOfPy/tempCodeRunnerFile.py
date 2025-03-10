@@ -1,4 +1,4 @@
-number=input("Enter Any Number ");
-
-print(type(number))
-print(number)
+list_val= [2,5,7];
+# tuple_val = tuple(list_val);
+# print(tuple_val)
+# print(tuple_val[2]);

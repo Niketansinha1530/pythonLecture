@@ -28,10 +28,10 @@
 # print(num_str.lower())
 
 #Converting tuple into list
-# tuple_val = (2,5,7);
-# list_val = list(tuple_val);
+# tuple_val = (2,5,7)
+# list_val = list(tuple_val)
 # print(list_val)
-# print(list_val[1]);
+# print(list_val[1])
 
 #Converting list into tuple
 # list_val= [2,5,7];
@@ -40,7 +40,7 @@
 # print(tuple_val[2]);
 
 
-# list_of_tuples = [(1,2),(4,8),(4,8)];
+# list_of_tuples = [(1,2),(4,8),(4,8)]
 # dict_val= dict(list_of_tuples); #dictonaries
 # print(dict_val)
 

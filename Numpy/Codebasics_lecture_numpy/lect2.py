@@ -32,10 +32,10 @@ ar_range = np.arange(4)
 print(ar_range)
 print("*************************************")
 #-> Array diagonal element filled with 1's
-ar_dia = np.eye(2,dtype="i")#Create 2-D Array and at diagonal place put 1
+ar_dia = np.eye(3,dtype="i")#Create 2-D Array and at diagonal place put 1
 print(ar_dia) 
 print("*************************************")
 #-> Creatae an array with values that are spaced linearly in a specified interval
 
-ar_lin = np.linspace(0,20,num=5,dtype="i")
+ar_lin = np.linspace(1,20,num=10,dtype="i")
 print(ar_lin)

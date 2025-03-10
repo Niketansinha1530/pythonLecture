@@ -15,14 +15,14 @@
 
 #All about Complex data Type.
 
-# z=3 + 4j;
-# print(z)
-# print(type(z))
-# print(z.real)
-# print(z.imag)
-# z1=3 + 2j;
-# print(z+z1);
-# print(z - z1.conjugate())
+z=4 + 4j;
+print(z)
+print(type(z))
+print(z.real)
+print(z.imag)
+z1=3 + 2j;
+print(z+z1);
+print(z - z1.conjugate()) #4 + 4j  - (3 - 2j) = 1 + 6j
 
 a , b = 10,20;
 

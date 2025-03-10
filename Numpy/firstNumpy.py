@@ -17,11 +17,12 @@ print(ar[0])
 print(ar[1])
 
 l = range(1000)
+print(l)
 name="niketan"
-print(sys.getsizeof(5)*len(l))
+print("LIst memory  size:",sys.getsizeof(5)*len(l))
 
 array = np.arange(1000)
-print(array.size*array.itemsize)
+print("Array memory size:",array.size*array.itemsize)
 
 #lists multiplication
 a1_list = [1,2,3,4,5]
@@ -31,11 +32,12 @@ result = [(x*y) for x,y in zip(a1_list,a2_list)]
 print(result)
 
 # array multiplication
-# a1 = np.array([1,2,3,4,5])
-# a2 = np.array([5,5,5,5,5])
+a1 = np.array([1,2,3,4,5])
+a2 = np.array([5,5,5,5,5])
 
-# result = a1*a2
-# print(result)
+result = a1*a2
+print("numpy multiplication")
+print(result)
 
 print("******************************************")
 digits = np.array([

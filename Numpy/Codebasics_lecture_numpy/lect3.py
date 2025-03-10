@@ -21,5 +21,5 @@ x = np.random.ranf(2)
 print(x)
 print("********************************")
 # -> randint() : the function is used to generate a random number be in a given range.
-y = np.random.randint(1,40,5) #randint(min,max,totalNumber)
+y = np.random.randint(1,20,3) #randint(min,max,totalNumber)
 print(y)
